@@ -1,6 +1,6 @@
 # NgTourism
 https://github.com/krsln/NgTourism  
-https://krsln.github.io/NgTourism  
+Demo [https://krsln.github.io/NgTourism](https://krsln.github.io/NgTourism)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
 
