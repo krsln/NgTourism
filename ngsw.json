@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1596707509421,
+  "timestamp": 1596709946033,
   "index": "https://krsln.github.io/NgTourism/index.html",
   "assetGroups": [
     {
@@ -33,8 +33,8 @@
         "https://krsln.github.io/NgTourism/common-es5.1c28719918b8af09e5e0.js",
         "https://krsln.github.io/NgTourism/favicon.ico",
         "https://krsln.github.io/NgTourism/index.html",
-        "https://krsln.github.io/NgTourism/main-es2015.fb1ffe80f8ab25e861cb.js",
-        "https://krsln.github.io/NgTourism/main-es5.fb1ffe80f8ab25e861cb.js",
+        "https://krsln.github.io/NgTourism/main-es2015.e188025f7fb3608bc2dc.js",
+        "https://krsln.github.io/NgTourism/main-es5.e188025f7fb3608bc2dc.js",
         "https://krsln.github.io/NgTourism/manifest.webmanifest",
         "https://krsln.github.io/NgTourism/polyfills-es2015.cbdcf18ecbe5f32dbbdb.js",
         "https://krsln.github.io/NgTourism/polyfills-es5.850715493f2cbe6d1918.js",
@@ -126,9 +126,9 @@
     "https://krsln.github.io/NgTourism/fa-solid-900.e01ea526204590d06558.svg": "e8f876f36cb95ebe9134d5186ce246a97402644c",
     "https://krsln.github.io/NgTourism/fa-solid-900.f89ad185d4d491dd5ffe.woff": "b3df05f069a5bcdf173d0c47bc01a2e6898b08c8",
     "https://krsln.github.io/NgTourism/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://krsln.github.io/NgTourism/index.html": "ba0f076781e98d2fbf811ef04b2a037c632cf10e",
-    "https://krsln.github.io/NgTourism/main-es2015.fb1ffe80f8ab25e861cb.js": "7aacf75e15dc508aa9670e2dd680802ec7f1a1ac",
-    "https://krsln.github.io/NgTourism/main-es5.fb1ffe80f8ab25e861cb.js": "5a42a8761a79cc5e400797f131735cae69f54e9c",
+    "https://krsln.github.io/NgTourism/index.html": "4b84c82839d3d6accd821b8c2721864784eb497c",
+    "https://krsln.github.io/NgTourism/main-es2015.e188025f7fb3608bc2dc.js": "3c32b360d9d5e9a322df52ca78793cf66f3b2c49",
+    "https://krsln.github.io/NgTourism/main-es5.e188025f7fb3608bc2dc.js": "26dacc6de5970f5691e3f64721a18e71589ac4f8",
     "https://krsln.github.io/NgTourism/manifest.webmanifest": "b8973ca946163d1921633b8d69e9059129753a4f",
     "https://krsln.github.io/NgTourism/polyfills-es2015.cbdcf18ecbe5f32dbbdb.js": "ecca4b0734396815328541242a00df7aec949ea3",
     "https://krsln.github.io/NgTourism/polyfills-es5.850715493f2cbe6d1918.js": "f8acac04dc56e819c209a0032654c329d12b4f7f",
